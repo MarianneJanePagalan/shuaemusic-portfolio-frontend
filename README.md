@@ -1,6 +1,6 @@
 # ShuaeMusic Portfolio - Frontend Client
 
-A premium, highly interactive frontend portfolio interface engineered for music producers and audio engineers. This repository contains the standalone User Interface (UI) and user experience layer for the project.
+A highly interactive frontend portfolio interface engineered for music producers and audio engineers. This repository contains the standalone User Interface (UI) and user experience layer for the project.
 
 ## 🎨 Design & UI Philosophy
 
