@@ -1,16 +1,31 @@
-# React + Vite
+# ShuaeMusic Portfolio - Frontend Client
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A premium, highly interactive frontend portfolio interface engineered for music producers and audio engineers. This repository contains the standalone User Interface (UI) and user experience layer for the project.
 
-Currently, two official plugins are available:
+## 🎨 Design & UI Philosophy
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- **Aesthetic:** High-contrast dark mode foundation (`#0a0a0a`) paired with vibrant Neon Cyan (`#00f7ff`) and Magenta (`#ff00ff`) accents to capture an electronic/music production vibe.
+- **Visual Features:** Implemented glassmorphism structural layouts, interactive hovering elements, and responsive layout grids built entirely via **Tailwind CSS**.
+- **Navigation:** Seamless UX implementation utilizing viewport-targeted smooth scrolling for call-to-action service inquiries.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Technical Stack
 
-## Expanding the ESLint configuration
+- **Framework:** React 19 (Functional components with state hooks)
+- **Build Tool:** Vite (Optimized for fast bundling and hot module replacement)
+- **Styling:** Tailwind CSS (Utility-first CSS framework)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🌐 Live Production Deployment
+
+The frontend client is continuously built and hosted on global edge networks via Vercel:
+👉 **Live Website Demo:** `https://shuaemusic-portfolio-fullstack.vercel.app/`
+---
+
+## 🚀 Looking for the Full-Stack Version?
+
+This user interface has been expanded with a fully functional node environment! To view the repository containing the **Node.js + Express backend infrastructure**, automated continuous delivery pipelines, and cloud database communication layers, please visit:
+
+🔗 **Full-Stack Repository:** [shuaemusic-portfolio-fullstack](https://github.com/MarianneJanePagalan/shuaemusic-portfolio-fullstack)
