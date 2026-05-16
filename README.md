@@ -21,7 +21,7 @@ A highly interactive frontend portfolio interface engineered for music producers
 ## 🌐 Live Production Deployment
 
 The frontend client is continuously built and hosted on global edge networks via Vercel:
-👉 **Live Website Demo:** `https://shuaemusic-portfolio-fullstack.vercel.app/`
+👉 **Live Website Demo:** **https://shuaemusic-portfolio-fullstack.vercel.app/**
 ---
 
 ## 🚀 Looking for the Full-Stack Version?
