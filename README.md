@@ -30,5 +30,3 @@ Live Website Demo: https://shuaemusic-portfolio-fullstack.vercel.app/
 This user interface has been expanded with a fully functional node environment! To view the repository containing the **Node.js + Express backend infrastructure**, automated continuous delivery pipelines, and cloud database communication layers, please visit:
 
 🔗 **Full-Stack Repository:** [shuaemusic-portfolio-fullstack](https://github.com/MarianneJanePagalan/shuaemusic-portfolio-fullstack)
-
-jjnn
